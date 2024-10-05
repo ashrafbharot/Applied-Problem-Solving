@@ -1,1 +1,2 @@
 # Applied-Problem-Solving
+This repository contains the work I completed during my Applied Problem Solving course. The course focused on developing critical thinking and algorithmic approaches to tackle complex problems. I worked on various tasks and workshops, which helped me strengthen my skills in logical reasoning, coding, and debugging. All the workshops and assignments in this repository were done by me, allowing me to enhance my ability to break down problems and find effective solutions.
